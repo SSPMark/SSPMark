@@ -2,3 +2,5 @@
 - 🧑‍💻 I’m currently working with Angular.
 - 📫 How to reach me:
   - 🦋 Bluesky: [@ssp.vegas](https://bsky.app/profile/ssp.vegas)
+  - 🖥️ Website: [www.ssp.vegas](https://www.ssp.vegas)
+- ⚡ Fun fact: I use GitHub anti-socially keeping all my personal repositories private. That may change one day, but this is not that day.
